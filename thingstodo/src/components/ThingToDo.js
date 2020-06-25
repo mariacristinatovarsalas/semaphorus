@@ -7,15 +7,15 @@ const ThingToDo = ({ thingToDo }) => {
 
  const [color, setColor] = useState(thingToDo.urgency)
 
- const backgroundColors=()=>{
+ const backgroundColors = () => {
   switch(color) {
-    case "Urgent":
+    case "urgent":
       setColor("red")
       break
-    case "Normal":
-      setColor("yellow")
+    case "normal":
+      setColor("#FFC900")
       break
-    case "Not Urgent":
+    case "not_urgent":
       setColor("green")
       break
   }
@@ -25,15 +25,20 @@ const ThingToDo = ({ thingToDo }) => {
 },[color])
 
   return(
-  <li style={{backgroundColor:color}}>
-    <div>{thingToDo.thing}</div>
-    <div>{thingToDo.urgency}</div>
-    <button onClick={() => deleteThingToDo(thingToDo.id)}>Delete</button>
-    <div>
-      <button onClick={()=>setColor("Urgent")}>Urgent</button>
-      <button>Normal</button>
-      <button>Not Urgent</button>
+  <li style={{backgroundColor:color}} className="thingToDo">
+
+    <div className="btns_container">
+      <div>{thingToDo.thing}</div>
+      {/* <div>{thingToDo.urgency}</div> */}
     </div>
+    
+    <div className="btns_container">
+      <button onClick={() => deleteThingToDo(thingToDo.id)} className="btn">Delete</button>
+      <button onClick={()=>setColor("urgent")} className="semaphorus red"></button>
+      <button onClick={()=>setColor("normal")} className="semaphorus yellow"></button>
+      <button onClick={()=>setColor("not_urgent")} className="semaphorus green"></button>
+    </div>
+
   </li> 
   )
 }

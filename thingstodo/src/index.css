@@ -13,9 +13,111 @@ code {
 }
 
 .App{
-  background: #4c2a4c;
+  background:#094185;
   margin: 20px auto;
   width: 90%;
   max-width: 700px;
   color: #eee;
+  padding: 3vw;
+  text-align: center;
+}
+
+.header {
+  background-color: #94C2F9;
+  /* margin: 1.5vw; */
+  margin-bottom: 2vw;
+  border-radius: 13px;
+  text-align: center;
+  padding-top: 2vw;
+  padding-bottom: 2vw;
+  border: 1px solid black;
+}
+
+h1 {
+  /* border: 1px solid black; */
+  margin: 0;
+  color: black;
+  margin-bottom: 0.4vw;
+}
+h2 {
+  /* border: 1px solid black; */
+  margin: 0;
+  color: black;
+}
+
+.thingToDo {
+  border: 1px solid black;
+  margin-bottom: 1vw;
+  border-radius: 13px;
+  display: flex;
+  padding: 2vw;
+  justify-content: space-between;
+}
+
+ul li {
+  list-style-type: none;
+  margin-right: 3.5vw;
+}
+
+.semaphorus {
+  border-radius: 25px;
+  margin: 0.2vw;
+  width: 3vw;
+  height: 3vw;
+} 
+
+.thingsToDoList {
+  border: 1px solid black;
+  border-radius: 13px;
+  background-color: #94C2F9;
+}
+
+.red {
+  background-color: red;
+}
+
+.yellow {
+  background-color: #FFC900;
+}
+
+.green {
+  background-color: green;
+}
+
+.form {
+  border: 1px solid black;
+  margin-top: 2vw;
+  display: flex;
+  justify-content: space-between;
+  padding: 2vw 3vw;
+  border-radius: 13px;
+  background-color: #94C2F9;
+}
+
+.btn {
+  width: 7vw;
+  margin: 0 1vw;
+  border: 2px solid black;
+  height: 2vw;
+  border-radius: 12px;
+  color: black;
+  font-weight: bold;
+  background-color: lightgrey;
+}
+
+.btns_container {
+  display: flex;
+  align-items: center;
+}
+
+input {
+  width: 25vw;
+  margin: 1vw;
+  height: 2.5vw;
+}
+
+li {
+  color: black;
+  font-weight: bold;
+  font-size: 2vw;
 }

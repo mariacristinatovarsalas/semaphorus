@@ -7,7 +7,7 @@ import AddThingToDoForm from './components/AddThingToDoForm'
 
 function App() {
   return (
-    <div>
+    <div className="App">
       <ThingsToDoContextProvider>
         <Header />
         <ThingsToDoList />

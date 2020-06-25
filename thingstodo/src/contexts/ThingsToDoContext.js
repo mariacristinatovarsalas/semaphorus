@@ -6,8 +6,9 @@ export const ThingsToDoContext = createContext()
 const ThingsToDoContextProvider = (props) => {
 
   const [thingsToDo, setThingsToDo] = useState([
-    { thing: "Prepare dinner for parents", urgency: "Urgent", id: 1 },
-    { thing: "Organize bedroom", urgency: "Not Urgent", id: 2 }
+    { thing: "Prepare dinner", urgency: "urgent", id: 1 },
+    { thing: "Organize bedroom", urgency: "not_urgent", id: 2 },
+    { thing: "Do homework", urgency: "normal", id: 2 }
   ]) 
 
   const addThingToDo = (thing, urgency) => {

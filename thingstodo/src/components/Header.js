@@ -6,7 +6,7 @@ const Header = () => {
  const { thingsToDo } = useContext(ThingsToDoContext)
 
   return(
-    <div>
+    <div className="header">
       <h1>Things To Do! :)</h1>
       <h2>{thingsToDo.length} things to go</h2>
     </div>
