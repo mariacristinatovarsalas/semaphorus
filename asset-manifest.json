@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/things-to-do-app/static/css/main.f94d1fec.chunk.css",
+    "main.js": "/things-to-do-app/static/js/main.379b7d1e.chunk.js",
+    "main.js.map": "/things-to-do-app/static/js/main.379b7d1e.chunk.js.map",
+    "runtime-main.js": "/things-to-do-app/static/js/runtime-main.8ca14fd4.js",
+    "runtime-main.js.map": "/things-to-do-app/static/js/runtime-main.8ca14fd4.js.map",
+    "static/js/2.f28f164a.chunk.js": "/things-to-do-app/static/js/2.f28f164a.chunk.js",
+    "static/js/2.f28f164a.chunk.js.map": "/things-to-do-app/static/js/2.f28f164a.chunk.js.map",
+    "index.html": "/things-to-do-app/index.html",
+    "precache-manifest.d64979155e04a5045f42a6f7d80daa87.js": "/things-to-do-app/precache-manifest.d64979155e04a5045f42a6f7d80daa87.js",
+    "service-worker.js": "/things-to-do-app/service-worker.js",
+    "static/css/main.f94d1fec.chunk.css.map": "/things-to-do-app/static/css/main.f94d1fec.chunk.css.map",
+    "static/js/2.f28f164a.chunk.js.LICENSE.txt": "/things-to-do-app/static/js/2.f28f164a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ca14fd4.js",
+    "static/js/2.f28f164a.chunk.js",
+    "static/css/main.f94d1fec.chunk.css",
+    "static/js/main.379b7d1e.chunk.js"
+  ]
+}
