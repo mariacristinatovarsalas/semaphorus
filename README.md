@@ -1,6 +1,8 @@
 # things-to-do-app
 
-"Things To Do" is an APP to display things to do in a list, user can assign an urgency level to it and erase it from the list when is done. FRONTEND: HTML5, CSS3, React.JS (React Context and Hooks).
+"Things To Do" is an APP to display things to do in a list, user can create them, assign an urgency level to them and erase them from the list when done. FRONTEND: HTML5, CSS3, React.JS (React Context and Hooks).
+
+GitHub Pages link: http://mariacristinatovarsalas.github.io/tasks-planner/.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
