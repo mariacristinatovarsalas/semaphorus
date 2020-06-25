@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/things-to-do-app/static/css/main.65484f7d.chunk.css",
-    "main.js": "/things-to-do-app/static/js/main.20528549.chunk.js",
-    "main.js.map": "/things-to-do-app/static/js/main.20528549.chunk.js.map",
+    "main.js": "/things-to-do-app/static/js/main.8e154d9b.chunk.js",
+    "main.js.map": "/things-to-do-app/static/js/main.8e154d9b.chunk.js.map",
     "runtime-main.js": "/things-to-do-app/static/js/runtime-main.8ca14fd4.js",
     "runtime-main.js.map": "/things-to-do-app/static/js/runtime-main.8ca14fd4.js.map",
     "static/js/2.f28f164a.chunk.js": "/things-to-do-app/static/js/2.f28f164a.chunk.js",
     "static/js/2.f28f164a.chunk.js.map": "/things-to-do-app/static/js/2.f28f164a.chunk.js.map",
     "index.html": "/things-to-do-app/index.html",
-    "precache-manifest.0700b2c030b105169c5cf6f2534f2b30.js": "/things-to-do-app/precache-manifest.0700b2c030b105169c5cf6f2534f2b30.js",
+    "precache-manifest.bb19633fa6572ce3be4b01e782b22e86.js": "/things-to-do-app/precache-manifest.bb19633fa6572ce3be4b01e782b22e86.js",
     "service-worker.js": "/things-to-do-app/service-worker.js",
     "static/css/main.65484f7d.chunk.css.map": "/things-to-do-app/static/css/main.65484f7d.chunk.css.map",
     "static/js/2.f28f164a.chunk.js.LICENSE.txt": "/things-to-do-app/static/js/2.f28f164a.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.8ca14fd4.js",
     "static/js/2.f28f164a.chunk.js",
     "static/css/main.65484f7d.chunk.css",
-    "static/js/main.20528549.chunk.js"
+    "static/js/main.8e154d9b.chunk.js"
   ]
 }
