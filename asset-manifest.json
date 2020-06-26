@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/things-to-do-app/static/css/main.060ce0ff.chunk.css",
+    "main.css": "/things-to-do-app/static/css/main.92039db2.chunk.css",
     "main.js": "/things-to-do-app/static/js/main.34777070.chunk.js",
     "main.js.map": "/things-to-do-app/static/js/main.34777070.chunk.js.map",
     "runtime-main.js": "/things-to-do-app/static/js/runtime-main.8ca14fd4.js",
@@ -8,15 +8,15 @@
     "static/js/2.f28f164a.chunk.js": "/things-to-do-app/static/js/2.f28f164a.chunk.js",
     "static/js/2.f28f164a.chunk.js.map": "/things-to-do-app/static/js/2.f28f164a.chunk.js.map",
     "index.html": "/things-to-do-app/index.html",
-    "precache-manifest.1cfc2122ce395f9a3877e5d10df59508.js": "/things-to-do-app/precache-manifest.1cfc2122ce395f9a3877e5d10df59508.js",
+    "precache-manifest.ec040546385beffd6ec0a3fe9010b9ff.js": "/things-to-do-app/precache-manifest.ec040546385beffd6ec0a3fe9010b9ff.js",
     "service-worker.js": "/things-to-do-app/service-worker.js",
-    "static/css/main.060ce0ff.chunk.css.map": "/things-to-do-app/static/css/main.060ce0ff.chunk.css.map",
+    "static/css/main.92039db2.chunk.css.map": "/things-to-do-app/static/css/main.92039db2.chunk.css.map",
     "static/js/2.f28f164a.chunk.js.LICENSE.txt": "/things-to-do-app/static/js/2.f28f164a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.8ca14fd4.js",
     "static/js/2.f28f164a.chunk.js",
-    "static/css/main.060ce0ff.chunk.css",
+    "static/css/main.92039db2.chunk.css",
     "static/js/main.34777070.chunk.js"
   ]
 }
