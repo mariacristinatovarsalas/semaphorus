@@ -16,7 +16,7 @@ body {
 }
 
 .app{
-  height: 95vh;
+  /* height: 95vh; */
   max-width: 1000px;
   margin: 20px auto;
   padding: 3vw;
@@ -145,7 +145,7 @@ input {
 
 /* MOBILE VERSION */
 
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 599px) {
 
   .app{
     margin: 0;
@@ -201,5 +201,14 @@ input {
     width: 35vw;
     height: 3vw;
   }
+
+}
+
+@media (min-width: 600px) and (max-width: 900px) {
+
+.app {
+  width: 80vw;
+}
+
 
 }
