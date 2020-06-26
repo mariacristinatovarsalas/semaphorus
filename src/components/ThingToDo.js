@@ -28,7 +28,7 @@ const ThingToDo = ({ thingToDo }) => {
   <li style={{backgroundColor:color}} className="thingToDo">
 
     <div className="btns_container">
-      <div>{thingToDo.thing}</div>
+      <div className="thing_container">{thingToDo.thing}</div>
       {/* <div>{thingToDo.urgency}</div> */}
     </div>
     
