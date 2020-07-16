@@ -1,4 +1,4 @@
-# things-to-do-app
+# Semaphorus
 
 "Things To Do" is a responsive APP to display things to do in a list, user can create them, assign an urgency level to them and erase them from the list when done. FRONTEND: HTML5, CSS3, React.JS (React Context and Hooks).
 
